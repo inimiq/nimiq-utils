@@ -23,6 +23,7 @@ AddressBook.BOOK = {
     'NQ94 GSXP KNG0 K5YV HFJ1 PYAQ Y5D1 XTQ1 SLFP': 'Nimiq-Faucet.surge.sh',
     'NQ09 VF5Y 1PKV MRM4 5LE1 55KV P6R2 GXYJ XYQF': 'Nimiq Foundation',
     'NQ19 YG54 46TX EHGQ D2R2 V8XA JX84 UFG0 S0MC': 'Nimiq Charity',
+    'NQ82 N1JF YFKG 9YR4 U8UL 7X42 ETDH 0RDG YMBG': 'iNimiq Pool',
 
     // Testnet
     'NQ31 QEPR ED7V 00KC P7UC P1PR DKJC VNU7 E461': 'pool.nimiq-testnet.com',
